@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: WooCommerce Subscription Length Extender
+ * Plugin Name: CUL - WooCommerce Subscription Length Extender
  * Description: Add a custom 30 month subscription length to WooCommerce Subscriptions (requires WC Subscriptions 1.4.4 or newer) to give the option of having a subscription expire after 30 months.
  * CUL
  * Version: 1.0
